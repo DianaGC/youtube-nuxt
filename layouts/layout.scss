@@ -1,0 +1,33 @@
+.text {
+  border: #065fd4 1px solid !important;
+  font-size: 26px;
+  border-radius: 30px;
+  color: #065fd4 !important;
+  background: white !important;
+}
+
+.bar {
+  background-color: white !important;
+  height: 0px !important;
+}
+
+.menu {
+  align-self: end;
+  color: #707B7C;
+  margin: 35%;
+  padding-top: 5%;
+}
+
+.containerLogo {
+  margin: 10%;
+}
+
+.search {
+  padding-top: 25px;
+  border-radius: 10px;
+}
+.barYoutube{
+   display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
