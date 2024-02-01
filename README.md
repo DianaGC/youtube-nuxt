@@ -60,5 +60,6 @@ $ npm run dev
 - Use mapActions and mapGetters
 - Separate the script into another file, you can create a new file and move the content of the <script> block there. Then import that file into your main component to keep your code more organized.
 - Add more functionality to complete the page.
+- create a folder src
 
 
